@@ -1,0 +1,22 @@
+#
+#
+#   file listing points of intrest 
+#   
+#   type,x,y,z,biome/structure
+#   
+#   
+#
+# example lines
+#
+# biome,282,72,76,beach
+# structure,288,0,80,Ruined_Portal
+#
+structure,288,0,80,Ruined_Portal
+#structure,-256,0,112,Ruined_Portal
+biome,282,72,76,beach
+#biome,329,73,107,beach
+#biome,330,73,109,forest
+#biome,341,66,119,beach
+#biome,344,65,120,forest
+#biome,335,69,113,forest
+#biome,282,72,76,beach
